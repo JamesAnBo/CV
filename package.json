@@ -1,0 +1,19 @@
+{
+  "name": "personal_cv",
+  "version": "1.0.0",
+  "description": "my cv",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesAnBo/CV.git"
+  },
+  "author": "James Boyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesAnBo/CV/issues"
+  },
+  "homepage": "https://github.com/JamesAnBo/CV#readme"
+}
